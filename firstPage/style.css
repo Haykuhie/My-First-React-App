@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    width:100vw;
+    height:95vh;
+    background-image: url(1.jpg);
+    background-size:cover;
+    background-position: center;
+    padding-top:20px;
+}
+.signIn{
+    width:20vw;
+    height: 50vh;
+    margin:0 20px ;
+}
+.portrait{
+    width:80px;
+    height:80px;
+    background-image:url(2.jpg);
+    border-radius:50%;
+    background-size:cover;
+    margin: auto;
+}
+.first{
+    color:white;
+    text-align: center;
+    margin:10px;
+}
+button{
+    width:130px;
+    height:30px;
+    background:rgb(214, 214, 10);
+    border:none;
+    margin-left: 70px;
+    border-radius:10px;
+    cursor:pointer
+}
